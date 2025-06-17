@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/whiteking64-macos-ocr-mcp-badge.png)](https://mseep.ai/app/whiteking64-macos-ocr-mcp)
+
 # macOS OCR MCP Tool
 
 This project provides a MetaCall Protocol (MCP) tool to perform Optical Character Recognition (OCR) on images using macOS's built-in Vision framework. It exposes an `ocr_image` tool that takes an image file path and returns the recognized text along with confidence scores and bounding boxes.
